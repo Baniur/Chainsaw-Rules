@@ -39,7 +39,7 @@ fields:
 filter:
   condition: tokenduplicator
 
-  lazagne:
+  tokenduplicator:
     FullPath:
       - 'i*tokenduplicator.exe*'
       - 'i*tokenduplicator-main.zip*'

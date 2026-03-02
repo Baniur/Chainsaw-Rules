@@ -43,5 +43,5 @@ filter:
     FullPath:
       - 'i*atera_agent.exe*'
       - 'i*ateraagent.exe*'
-      - 'i*AgentPackageNetworkDiscovery.exe.exe*'
-      - 'i*AgentPackageTaskScheduler.exe.exe*'
+      - 'i*AgentPackageNetworkDiscovery.exe*'
+      - 'i*AgentPackageTaskScheduler.exe*'

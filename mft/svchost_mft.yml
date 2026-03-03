@@ -43,7 +43,7 @@ filter:
     FullPath:
       - 'i*svchost.exe*'
 
-  ntds_2:
+  svchost_1:
     FullPath:
       - 'iWindows/System32/svchost.exe'
       - 'iWindows/SysWow64/svchost.exe'
